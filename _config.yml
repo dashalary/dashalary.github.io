@@ -1,11 +1,11 @@
 # Site settings
 author: Dasha Lary
-title: 
+title: Dasha's coding journey
 header-img: img/home-bg.png
 email: dk2800@nyu.edu
 copyright_name: Dasha Lary
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My coding blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dashalary
