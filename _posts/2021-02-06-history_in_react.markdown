@@ -10,7 +10,9 @@ One of the requirements of the React project was to utilize React Router. My exp
 
 History, or history object, refers to a major dependency of React Router and is extremely convenient when you want your app to manage your browser's session history. History objects have many properties and methods, such as push(), which pushes a new entry onto your browser's histor stack and essentially allows you redirect your app to a provided location, or goBack(), which does... exactly what it says it does. In order to use history in my project, I passed it down as a prop  through Router to the specific components that would use it: 
 
-![(https://imgur.com/lHDWQGU)]
+![](https://imgur.com/lHDWQGU)
+
+![](http://)
 
 
 Once my components had access to history, I decided to implement it in my forms. For example, once a post is made, my app automatically takes you to the page where you see all posts (including your new one) which was already accessible to me as one of my Routes. I did that by adding the following line inside my handleOnSubmit method:
