@@ -10,7 +10,7 @@ One of the requirements of the React project was to utilize React Router. My exp
 
 History, or history object, refers to a major dependency of React Router and is extremely convenient when you want your app to manage your browser's session history. History objects have many properties and methods, such as push(), which pushes a new entry onto your browser's histor stack and essentially allows you redirect your app to a provided location, or goBack(), which does... exactly what it says it does. In order to use history in my project, I passed it down as a prop  through Router to the specific components that would use it: 
 
-![img](https://imgur.com/lHDWQGU)
+![Imgur](https://imgur.com/lHDWQGU)
 
 ![](http://)
 
